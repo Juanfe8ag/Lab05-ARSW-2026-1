@@ -18,6 +18,7 @@ Luego se firma, se encripta y se realiza el POST.
 ## Tercera parte: Scopes para endpoints
 Lo que se hizo fue asignar scope de read a todos los endpoints GET, y añadir scope de write a todos los POST y PUT del
 laboratorio pasado.
+
 ![SCOPE WRITE.png](img/SCOPE%20WRITE.png)
 
 ## Cuarta parte: Definición del tiempo del token
